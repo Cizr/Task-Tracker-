@@ -21,6 +21,6 @@ TaskTrackerApp is a simple task-tracking application developed in Python with th
 
 1. Clone the repository:
 
-   ```bash
-git clone https://github.com/Cizr/Task-Tracker-.git
+   ```bash git clone https://github.com/Cizr/Task-Tracker-.git
+
 
